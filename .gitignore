@@ -200,3 +200,4 @@ outgoing
 *.ld
 .project
 .cproject
+*/Makefile
